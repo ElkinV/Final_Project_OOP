@@ -5,8 +5,6 @@ Final project of the subject: Object Oriented Programming done in Java.
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 ### General Info
 ***
 Object oriented application in Java that allows to register the information of the series and its characters in order to be able to calculate the price to pay for salaries to the characters of a series according to the number of episodes.
