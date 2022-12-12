@@ -21,10 +21,9 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/ElkinV/Final_Project_OOP.git
 $ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ 
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
