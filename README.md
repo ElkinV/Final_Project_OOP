@@ -23,12 +23,7 @@ A little intro about the installation.
 ```
 $ git clone https://github.com/ElkinV/Final_Project_OOP.git
 $ cd ../path/to/the/file
-$ 
+$ javac Main.java
+$ java Main
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+
